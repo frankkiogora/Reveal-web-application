@@ -1,6 +1,6 @@
 function submitToAPI(e) {
     e.preventDefault();
-    var URL = "https://ixk0ytdcba.execute-api.us-east-1.amazonaws.com/Prod"
+    var URL = "https://ixk0ytdcba.execute-api.us-east-1.amazonaws.com/Prod/reveal-contact-info"
 
  
         var Namere = /[A-Za-z]{1}[A-Za-z]/;
